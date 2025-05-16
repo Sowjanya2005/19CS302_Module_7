@@ -16,6 +16,11 @@ using structure.
 
 ## Program:
 ```
+/*
+C program to display Hardware details such as price, product name and price using structure.
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
 #include<stdio.h> 
 struct hardware
 {
