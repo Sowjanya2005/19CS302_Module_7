@@ -15,6 +15,11 @@ roll numbers in to that file.
 8. 
 ## Program:
 ```
+/*
+C program to create a file named "Hospital.txt" and display messages on successful creation, opening, and closing of the file.
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
 #include <stdio.h>
 int main()
 {
