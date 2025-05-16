@@ -15,6 +15,11 @@ roll numbers in to that file.
 
 ## Program:
 ```
+/*
+C program to read a file name from user and create that file and insert student roll numbers in to that file.
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
 #include <stdio.h> 
 int main()
 {
