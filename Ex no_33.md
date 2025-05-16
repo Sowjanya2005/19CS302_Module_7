@@ -14,6 +14,11 @@ To write a C program to read a file name from user and create that file using fo
 
 ## Program:
 ```
+/*
+C program to read a file name from user and create that file using fopen().
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
 #include <stdio.h> 
 int main()
 {FILE *p;
